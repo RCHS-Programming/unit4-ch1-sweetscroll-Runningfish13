@@ -39,8 +39,3 @@ Then, add new rule-sets to include a background image in your new sections.
 .cake-ingredients {
   background-image: url("ingredients.JPG");
 }
-```
---- /hint ---
---- /hints ---
-
---- /challenge ---
